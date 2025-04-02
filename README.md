@@ -1,0 +1,1 @@
+Proyecto de creacion de un sistema de gestion de canchas en generales, suministrando una base de datos en la cual va a mantener los LOGS, mantener cadastro de registro, mantenimiento, sistema contable de consumibles 
